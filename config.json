@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/newdb",
+    "prod_uri":"mysql://root:@localhost/newdb",
+    "fb_url":"https://Facebook.com/My Blog",
+    "tw_url":"https://twitter.com/My Blog",
+    "gh_url":"https://github.com/My Blog",
+    "gmail-username": "****Your  Gmail ID****",
+    "gmail-passwd": "****Password****",
+    "blog_name": "My Blog",
+    "tag_line": "Coding...",
+    "sub_heading": "A Blog about Flask framework",
+    "about_text": "Hello I am Sushant and I have created this Website using Flask Microframework",
+    "no_post": 2,
+    "login_image": "bootstrap-logo.svg",
+    "admin_username": "username",
+    "admin_password": "Username",
+    "upload_location": "**locayion where you want to see you uploaded file**"
+
+  }
+}
